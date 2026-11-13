@@ -1,0 +1,4 @@
+# Plaintext solutions: only the password-protected .zip is committed
+Lecture*/solutions_*.ipynb
+Lecture*/soluzioni_*.ipynb
+.ipynb_checkpoints/

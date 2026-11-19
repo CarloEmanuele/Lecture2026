@@ -1,0 +1,11 @@
+name: lectures2026
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyter
+  - ipykernel
